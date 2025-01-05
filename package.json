@@ -1,13 +1,13 @@
 {
   "name": "docusaurus-aueb-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Docusaurus theme for AUEB with updated primary colors",
   "main": "theme.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["docusaurus", "theme", "AUEB", "primary-colors"],
-  "author": "YParaskevas Leivadaros",
+  "author": "Paraskevas Leivadaros",
   "license": "MIT",
   "repository": {
     "type": "git",
