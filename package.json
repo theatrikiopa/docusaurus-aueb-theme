@@ -1,0 +1,20 @@
+{
+  "name": "docusaurus-aueb-theme",
+  "version": "1.0.0",
+  "description": "Custom Docusaurus theme for AUEB with updated primary colors",
+  "main": "theme.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["docusaurus", "theme", "AUEB", "primary-colors"],
+  "author": "YParaskevas Leivadaros",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theatrikiopa/docusaurus-aueb-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theatrikiopa/docusaurus-aueb-theme/issues"
+  },
+  "homepage": "https://github.com/theatrikiopa/docusaurus-aueb-theme#readme"
+}
